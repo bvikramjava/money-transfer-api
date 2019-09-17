@@ -3,6 +3,7 @@
 A Java RESTful API for money transfers between users accounts
 
 ### Technologies
+- Java 10.0.1
 - JAX-RS API
 - H2 in memory database
 - Log4j
