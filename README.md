@@ -13,6 +13,7 @@ A Java RESTful API for money transfers between users accounts
 
 ### How to run
 ```sh
+mvn clean install
 mvn exec:java
 ```
 
